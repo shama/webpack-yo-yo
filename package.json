@@ -1,0 +1,20 @@
+{
+  "name": "webpack-yo-yo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline --hot"
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "transform-loader": "^0.2.3",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1",
+    "yo-yoify": "^1.0.3"
+  },
+  "dependencies": {
+    "yo-yo": "^1.1.1"
+  }
+}
